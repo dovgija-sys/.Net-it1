@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="it1.DB.Tests/it1.DB.Tests.csproj" />
+  <Project Path="it1.DB/it1.DB.csproj" />
+  <Project Path="it1.WF/it1.WF.csproj" />
+</Solution>
